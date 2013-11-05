@@ -1,5 +1,5 @@
 #Setup with jquery
-http://jsfiddle.net/SXkck/96/
+http://jsfiddle.net/SXkck/97/
 
 #Loading Bar by Pete R.
 A little jQuery plugin that will let you add a Youtube-like loading bar to all your ajax links 
